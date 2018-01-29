@@ -13,5 +13,4 @@ A Java FX hangman game. A user can choose between four levels of difficulty and 
 ### Game Play:
 ![Alt Text](https://github.com/priyanmistry/Hangman-Game/blob/master/img/win_example.png?raw=true "Winning a game")
 
-<br>
 ![Alt Text](https://github.com/priyanmistry/Hangman-Game/blob/master/img/lose_example.png?raw=true "Losing a game")
