@@ -4,4 +4,4 @@ A Java FX hangman game. A user can choose between four levels of difficulty and 
 
 ## Below are a few screenshots giving an insight into the game:
 
-![Win Example](Hangman-Game/img/win_example.png?raw=true "Game Won")
+![Win Example](Hangman-Game/img/win_example.png?raw=true "Winning a game")
